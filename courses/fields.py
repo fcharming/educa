@@ -1,5 +1,6 @@
 #coding=utf-8
 
+#为了使得课程模块和内容跟随一个特定的排序，需要一个字段，允许我们简单的排序
 from django.db import models
 from django.core.exceptions import ObjectDoesNotExist
 
